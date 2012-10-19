@@ -1,0 +1,17 @@
+{
+    "name": "textfit",
+    "description": "A jquery plugin to fit a text node in its parent element.",
+    "version": "1.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/rulemotion/textfit.git"
+    },
+    "main": "source/index.html",
+    "dependencies": {},
+    "devDependencies": {
+        "uglify-js": "latest",
+        "wrench": "latest",
+        "knox": "latest"
+    },
+    "optionalDependencies": {}
+}
