@@ -13,7 +13,7 @@
             wrappingElement: "span"
         }, settings);
         
-        this.each(function () {
+        return this.each(function () {
             var $el, $wrapper, w, h, i;
             $el = $(this).wrapInner(
                 document.createElement(settings.wrappingElement)
